@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**JhonyChino/JhonyChino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi !- I'm Jhonny 🧑‍💻
 
-Here are some ideas to get you started:
+## Welcome to my GitHub profile
+I am a backend developer with 2 years of experience in the .NET ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building scalable solutions, maintaining data integrity, and automating operational processes both in code and in the database.
+
+**Sometimes in spreadsheets.
+
+I am currently open to opportunities in freelance projects or collaborations.
+## 🛠 I use these technologies
+**Client:** Blazor WA, WPF
+
+**UI Libraries:** Bootstrap, Radzen, BootstrapBlazor
+
+**Server:** C#, .NET
+
+**Data Base:** Mysql, Sql Server, PostgreSql
+
+
+## 📈My Approach
+- 🧩**Backend with .NET:** Clean architecture, automation with Fluent API and triggers, integration with MySQL and SQL Server.
+- 🔐**Data integrity:** Safe migrations, Guid keys, well-defined relationships.
+- ⚙️**Focus:** Balance between logic in C# and database logic.
+- 📚**Current learning:** Angular, TypeScript
+
+## Note about my projects⚠️
+All my current projects are under private contract. However, I am working on releasing projects for the open-source community related to education, productivity, and automation. **I will share more soon!**
+
+
